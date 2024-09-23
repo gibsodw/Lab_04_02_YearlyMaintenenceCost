@@ -1,10 +1,10 @@
 public class Main
 {
     public static void main(String[] args) {
-        double spring = 775.63;
-        double summer = 643.97;
-        double fall = 1105.73;
-        double winter = 896.04;
+        double spring = 1075.98;
+        double summer = 836.01;
+        double fall = 591.52;
+        double winter = 936.73;
         double total = 0;
 
         System.out.println("What is the cost of home maintenance in the Spring?");
